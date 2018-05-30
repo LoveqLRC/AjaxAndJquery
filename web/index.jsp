@@ -16,5 +16,7 @@
 <a href="${pageContext.request.contextPath}/ajax/post_ajax.jsp">post ajax</a><br>
 <a href="${pageContext.request.contextPath}/checkUserName.jsp">check user name ajax</a><br>
 <a href="${pageContext.request.contextPath}/juqery/helloJquery.jsp">jquery hello world</a><br>
+<a href="${pageContext.request.contextPath}/KeyWordSearch.jsp">key word search</a><br>
+<a href="${pageContext.request.contextPath}/province.jsp">province select</a><br>
 </body>
 </html>
